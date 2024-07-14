@@ -25,4 +25,5 @@ func main() {
 	fmt.Print("masukan perintah : ")
 	fmt.Scan(&perintah)
 	calculator(angka1, angka2, perintah)
+
 }
